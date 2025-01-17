@@ -1,0 +1,34 @@
+:root {
+    --backgroundColorOrange: orange;
+    --backgroundColorGray: gray;
+    --backgroundColorDarkBlue: rgb(12, 12, 68);
+    --buttonGreen: green;
+    --textWhite: white;
+    --textBlack: black;
+    --lightGray: lightgray;
+    --errorRed: red;
+    --dialogBlue: blue;
+    --borderGray: gray;
+
+    --headerHeight: 64px;
+    --footerHeight: 64px;
+    --buttonHeight: 32px;
+    --buttonWidth: 100%;
+    --cardRadius: 8px;
+    --cartWidth: 300px;
+    --borderRadiusSmal: 4px;
+    --borderRadius: 8px;
+
+    --paddingSmall: 8px;
+    --paddingMedium: 16px;
+    --marginSmall: 4px;
+    --marginMedium: 8px;
+    --marginLarge: 16px;
+
+    --fontSizeSmall: 16px;
+    --fontSizeMedium: 18px;
+    --fontWeightNormal: 400;
+    --fontWeightBold: 700;
+
+    --boxShadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
