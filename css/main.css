@@ -86,6 +86,8 @@ header {
     flex: 1;
     padding: var(--paddingMedium);
     background-color: var(--backgroundColorGray);
+    display: flex;
+    justify-content: center;
 
 
 }
